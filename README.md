@@ -1,2 +1,2 @@
-# library-management-system-
-automatic library management system 
+# LIBRARY-
+LIBRARY MANAGEMENT SYSTEM
